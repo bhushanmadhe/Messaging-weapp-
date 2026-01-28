@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="beef8e98-3f09-4a57-874f-45db88ac113c" name="Changes" comment="" />
+    <list default="true" id="beef8e98-3f09-4a57-874f-45db88ac113c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chatapp-backend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp-frontend/src/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -43,8 +50,11 @@
     &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;Spring Boot.ChatAppApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user5/OneDrive/Desktop/Realtime-Chat-Application-with-SpringBoot-and-Angular-main&quot;,
@@ -85,6 +95,10 @@
       <workItem from="1769262952663" duration="1428000" />
       <workItem from="1769270849274" duration="4359000" />
       <workItem from="1769345122124" duration="107000" />
+      <workItem from="1769437501055" duration="528000" />
+      <workItem from="1769439302304" duration="883000" />
+      <workItem from="1769597482124" duration="553000" />
+      <workItem from="1769608157391" duration="92000" />
     </task>
     <servers />
   </component>
